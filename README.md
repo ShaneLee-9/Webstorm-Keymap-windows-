@@ -82,7 +82,7 @@ Ctrl + Shift + F8 | 查看断点
 Ctrl + B , Ctrl + 鼠标左键 | 跳转到路径源文件，或定义的变量（方法）处
 Ctrl + N | 查找相同的类
 Ctrl + Shift + N | 查找选中的所有匹配文件
-Ctrl + Alt + Shift + N | 查找选中的所有匹配symbol
+Ctrl + Alt + Shift + N | 查找项目中匹配的方法名
 Alt + Right | 向右切换文件选项卡
 Alt + Left | 向左切换文件选项卡
 F12 | 打开上一次打开的调试工具窗口
