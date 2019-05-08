@@ -23,7 +23,7 @@ Ctrl + Alt + L | 格式化代码
 Ctrl + Alt + I | 自动缩进线
 Tab | 缩进
 Shift + Tab | 撤销缩进
-Ctrl + Shift + V | 从最近的缓冲区粘贴
+Ctrl + Shift + V | 从最近的剪贴板内容中选择并插入到文本中
 Ctrl + D | 复制当前行或选定块
 Ctrl + Y | 删除行
 Alt + Shift + Up | 向上移动行
