@@ -18,7 +18,7 @@ Ctrl + / | 行注释/取消行注释
 Ctrl + Shift + / | 块注释/取消块注释
 Ctrl + W | 依次选择附近代码块
 Ctrl + Shift + W | 取消选择代码块
-Alt+Q | 
+Alt+Q | 上下文信息
 Ctrl + Alt + L | 格式化代码
 Ctrl + Alt + I | 自动缩进线
 Tab | 缩进
